@@ -1,0 +1,1 @@
+# kube-wso2am-jdbc
